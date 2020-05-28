@@ -102,3 +102,8 @@ COMMIT;
 
 ![login](https://user-images.githubusercontent.com/66080714/83179842-dbfd6c00-a122-11ea-85de-eaaf59e0f417.png)
 
+
+![Captura de pantalla (7)](https://user-images.githubusercontent.com/66080714/83189586-7cf32380-a131-11ea-9181-4fc008ecd47a.png)
+
+
+
